@@ -154,6 +154,24 @@ creates a **compact, field-ready wireless research platform** capable of:
 
 ---
 
+## 🌍 Open Source & Community
+
+In the spirit of open hardware and the broader security research community, this repository includes the **full design files** for the Hackitsune wardriving module.
+
+This means you can:
+
+- Review and learn from the design  
+- Modify and adapt it for your own use cases  
+- Reproduce the hardware yourself  
+
+We strongly believe in contributing back to the community that makes projects like this possible — whether you're building your own tools, experimenting, or extending the platform further.
+
+If you'd prefer a ready-to-use device, the official Hackitsune module is available here:
+
+👉 https://www.hackitsune.com/products/wardriver
+
+---
+
 ## ⚠️ Disclaimer
 
 Hackitsune hardware is designed for professional security research, development, and authorised testing purposes only. Users are responsible for ensuring compliance with all applicable laws and regulations in their jurisdiction. Always obtain proper authorisation before interacting with systems, networks, or devices you do not own.  
