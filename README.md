@@ -1,4 +1,5 @@
-# ESP32-S3-GPS-Flipper-Module
+# HacKitsune ESP32-S3 "WARDRIVER" Module for Flipper Zero & Merauder Firmware.
+
 A compact Flipper Zero add-on that pairs an ESP32-S3 with an onboard GPS and a microSD slot purpose built for [Marauder](https://github.com/HacKitsuneDotCom/ESP32Marauder) firmware, with the flexibility to flash with custom firmware of your choice. Uses the&nbsp;Flipper’s own screen and controls to navigate menus, run scans, and log results.
 
 ![HacKitsune ESP32-S3 Wi-Fi & GPS Wardriver Module]([https://example.com/image.png](https://www.hackitsune.com/cdn/shop/files/HacKitsune_ESP-S3_Wardriver_flipper_zero_module_uspmerauder_front.png?v=1773724498) "HacKitsune ESP32-S3 Wi-Fi & GPS Wardriver Module]")
